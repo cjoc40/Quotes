@@ -26,7 +26,5 @@
     {
     "text": "Health is not valued until sickness comes.",
     "author": "Thomas Fuller
-
-"
 }
 ]
